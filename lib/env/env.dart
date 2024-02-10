@@ -1,0 +1,1 @@
+const baseUrl = "https://sttbmedia.000webhostapp.com/";
