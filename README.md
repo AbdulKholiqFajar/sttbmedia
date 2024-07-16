@@ -1,8 +1,7 @@
 # STTB Social Media
 UAS - Pemograman Mobile II 
- 
-1. Abdul Kholiq Fajar  - 21552011296
-A new Flutter project.
+Abdul Kholiq Fajar  - 21552011296
+
 
 ## Getting Started
 
