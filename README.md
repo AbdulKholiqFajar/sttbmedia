@@ -1,11 +1,7 @@
-# STTB Social Hub
-UTS - Pemograman Mobile II dibuat oleh kelompok 
+# STTB Social Media
+UTS - Pemograman Mobile II 
  
 1. Abdul Kholiq Fajar  - 21552011296
-2. Azis Banon Sanjaya  - 21552011453
-3. Gerry Pratama Putra - 21552011423
-# social_media_apps
-
 A new Flutter project.
 
 ## Getting Started
